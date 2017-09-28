@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
+#include "Runtime/Engine/Classes/Kismet/GameplayStatics.h"
 #include "UE4_HomeTask3GameModeBase.generated.h"
 
 /**
@@ -14,7 +15,8 @@ class UE4_HOMETASK3_API AUE4_HomeTask3GameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
-	
+public:
+	AUE4_HomeTask3GameModeBase();
 	
 	
 };

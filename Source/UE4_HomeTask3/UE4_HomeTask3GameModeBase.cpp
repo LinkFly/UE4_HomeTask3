@@ -2,6 +2,9 @@
 
 #include "UE4_HomeTask3GameModeBase.h"
 
+AUE4_HomeTask3GameModeBase::AUE4_HomeTask3GameModeBase()
+{
 
+}
 
 
